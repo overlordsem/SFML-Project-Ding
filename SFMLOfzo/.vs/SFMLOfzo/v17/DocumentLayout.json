@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\semvh\\C\u002B\u002B\\SFMLOfzo\\",
+  "WorkspaceRootPath": "C:\\Users\\semvh\\SFML-Project-Ding\\SFMLOfzo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEE24092-50B4-4884-922E-A49C43783C16}|SFMLOfzo.vcxproj|C:\\Users\\semvh\\C\u002B\u002B\\SFMLOfzo\\SFMLOfzo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EEE24092-50B4-4884-922E-A49C43783C16}|SFMLOfzo.vcxproj|C:\\Users\\semvh\\SFML-Project-Ding\\SFMLOfzo\\SFMLOfzo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EEE24092-50B4-4884-922E-A49C43783C16}|SFMLOfzo.vcxproj|solutionrelative:SFMLOfzo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SFMLOfzo.cpp",
-              "DocumentMoniker": "C:\\Users\\semvh\\C\u002B\u002B\\SFMLOfzo\\SFMLOfzo.cpp",
+              "DocumentMoniker": "C:\\Users\\semvh\\SFML-Project-Ding\\SFMLOfzo\\SFMLOfzo.cpp",
               "RelativeDocumentMoniker": "SFMLOfzo.cpp",
-              "ToolTip": "C:\\Users\\semvh\\C\u002B\u002B\\SFMLOfzo\\SFMLOfzo.cpp",
+              "ToolTip": "C:\\Users\\semvh\\SFML-Project-Ding\\SFMLOfzo\\SFMLOfzo.cpp",
               "RelativeToolTip": "SFMLOfzo.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-02T09:01:35.573Z",
               "EditorCaption": ""
